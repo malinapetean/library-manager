@@ -170,11 +170,17 @@ namespace view
         private void update_Click(object sender, EventArgs e)
         {
 
-            this.books.updateBook(this.book);
-            this.books.save();
-            this.books.load();
-            this.form.Controls.Add(new PnlMain(this.books.findAll(), form));
-            this.form.Controls.Remove(this);
+            if (!(txtAuthor.Text.Equals("") || txtDescription.Text.Equals("") || txtYear.Text.Equals("")))
+            {
+                this.books.updateBook(this.book);
+                this.books.save();
+                this.books.load();
+                this.form.Controls.Add(new PnlMain(this.books.findAll(), form));
+                this.form.Controls.Remove(this);
+            }
+            else
+                MessageBox.Show(errorsCheck());
+
         }
         
         private void cancel_Click(object sender, EventArgs e)
@@ -211,12 +217,13 @@ namespace view
         private String errorsCheck()
         {
             String inf = "";
-            if (book.Author.Equals(""))
+            if (txtAuthor.Text.Equals(""))
                 inf += "Add author!";
-            if (book.Year == 0)
+            if (txtYear.Text.Equals(""))
                 inf += "Add year!";
-            if (book.Description.Equals(""))
+            if (txtDescription.Text.Equals(""))
                 inf += "Add description!";
+            return inf;
         }
     }
 }
