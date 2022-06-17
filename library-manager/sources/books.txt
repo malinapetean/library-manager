@@ -1,0 +1,12 @@
+1,Banding,Spitell,2009,Is a book about a policeman.
+2,Namekagon,Widdall,2010,Two brothers are fighting for the legacy
+3,Novick,Farress,1999,A biografical book.
+4,Manitowish,Gorke,1993,Greek mitology.
+5,Moulton,Tambling,1997,dasresdre
+6,New Castle,Maltman,2002,datfdyyeghf
+7,Enigma Otiliei, Calinesu,2006, Roman de sinteza realist.
+8,Ion,Liviu Rebreanu,2222,abcdef
+9,Pinochio,Blaaaa,1990,ghijkl.
+10,Genoveva,Majorie,2004,ahjhcvjelwef.
+11,fghj,123456,123456,hkbvcdhjlk
+12,BLAAA,DFGH,345678,FGHijk

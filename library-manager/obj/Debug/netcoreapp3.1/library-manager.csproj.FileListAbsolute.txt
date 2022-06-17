@@ -1,0 +1,14 @@
+D:\mycode\Incapsularea\panels\library-manager\library-manager\bin\Debug\netcoreapp3.1\library-manager.exe
+D:\mycode\Incapsularea\panels\library-manager\library-manager\bin\Debug\netcoreapp3.1\library-manager.deps.json
+D:\mycode\Incapsularea\panels\library-manager\library-manager\bin\Debug\netcoreapp3.1\library-manager.runtimeconfig.json
+D:\mycode\Incapsularea\panels\library-manager\library-manager\bin\Debug\netcoreapp3.1\library-manager.runtimeconfig.dev.json
+D:\mycode\Incapsularea\panels\library-manager\library-manager\bin\Debug\netcoreapp3.1\library-manager.dll
+D:\mycode\Incapsularea\panels\library-manager\library-manager\bin\Debug\netcoreapp3.1\library-manager.pdb
+D:\mycode\Incapsularea\panels\library-manager\library-manager\obj\Debug\netcoreapp3.1\library-manager.csproj.AssemblyReference.cache
+D:\mycode\Incapsularea\panels\library-manager\library-manager\obj\Debug\netcoreapp3.1\library-manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\Incapsularea\panels\library-manager\library-manager\obj\Debug\netcoreapp3.1\library-manager.AssemblyInfoInputs.cache
+D:\mycode\Incapsularea\panels\library-manager\library-manager\obj\Debug\netcoreapp3.1\library-manager.AssemblyInfo.cs
+D:\mycode\Incapsularea\panels\library-manager\library-manager\obj\Debug\netcoreapp3.1\library-manager.csproj.CoreCompileInputs.cache
+D:\mycode\Incapsularea\panels\library-manager\library-manager\obj\Debug\netcoreapp3.1\library-manager.dll
+D:\mycode\Incapsularea\panels\library-manager\library-manager\obj\Debug\netcoreapp3.1\library-manager.pdb
+D:\mycode\Incapsularea\panels\library-manager\library-manager\obj\Debug\netcoreapp3.1\library-manager.genruntimeconfig.cache

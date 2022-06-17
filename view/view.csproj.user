@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmMkMainAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMkUpdateBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PnlAsside.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMkCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMkLayout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PnlHeader.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="PnlBook.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="PnlMain.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="PnlMainAddBook.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="PnlUpdateBook.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
